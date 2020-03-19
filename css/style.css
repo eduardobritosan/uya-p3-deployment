@@ -25,7 +25,7 @@ body{
 }
 
 #top-bar {
-    background-image: "img/nav-bg.png";
+    background-image: url("img/nav-bg.png");
     background-color: #cccccc00;
     display: flex;
     width:430px;
